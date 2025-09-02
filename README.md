@@ -3,6 +3,8 @@
 Welcome to my corner of GitHub! 🚀  
 I love building, experimenting, and sharing cool projects with the community.  
 
+🌍 Check out my website: [gevi.top](https://www.gevi.top/)  
+
 ---
 
 ## 🌟 About Me
@@ -10,7 +12,6 @@ I love building, experimenting, and sharing cool projects with the community.
 - 🌱 Always learning and tinkering with new ideas  
 - 🎯 Goal: Build useful, fun, and open-source tools  
 - 💬 Ask me about code, creativity, and problem-solving  
-- ⚡ Fun fact: My alias "gevitop" comes with a story 😉
 
 ---
 
